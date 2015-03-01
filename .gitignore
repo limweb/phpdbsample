@@ -1,0 +1,16 @@
+*.zip
+*.7z
+composer.phar
+vendor/
+vendor1/
+venbck/
+bootstrap/compiled.php
+.env.*.php
+.env.php
+.svn
+phpserver/
+FieldLogger.air
+/src/FieldLogger-app.xml
+bin/
+bin-debug/
+bin-release/

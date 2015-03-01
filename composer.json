@@ -1,0 +1,19 @@
+{
+    "name": "servit/databasel5",
+    "description": "Service for Connection Databse with Eloquent V5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thongchai Lim",
+            "email": "limweb@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+         "php": ">=5.4.0",
+        "illuminate/database": "~5.1@dev",
+        "mpdf/mpdf": "6.0-beta",
+        "yajra/laravel-oci8": "dev-master",
+        "illuminate/events": "~5.1@dev"
+    }
+}
